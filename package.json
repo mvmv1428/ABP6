@@ -1,0 +1,27 @@
+{
+  "name": "abp6",
+  "version": "1.0.0",
+  "description": "Proyecto para el módulo 6",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvmv1428/ABP6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvmv1428/ABP6/issues"
+  },
+  "homepage": "https://github.com/mvmv1428/ABP6#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
